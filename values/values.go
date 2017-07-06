@@ -16,4 +16,5 @@ func main() {
 	fmt.Println(!true)
 
 	fmt.Println("hahah")
+
 }
